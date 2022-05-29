@@ -20,4 +20,3 @@ if __name__ == "__main__":
 
     result: str = main(argv[1])
     print(result)
-
