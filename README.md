@@ -69,3 +69,5 @@ If Python is not installed to your system PATH, there are plenty of guides that 
 8. To update to a newer version later, simply replace the zip file in the DLSS folder with a new one, and click the "Replace DLSS" button again
 
 9. To restore your games to their original DLSS versions, click the "Restore Backup" button
+
+**NOTE: If your DLSS games are in an administrator protected directory (such as Program Files (x86)) you will need to run this program as an administrator, either through an administrator-elevated terminal or by giving the `Supersede.jar` file the appropriate WRITE permissions!**
